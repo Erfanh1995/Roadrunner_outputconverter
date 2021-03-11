@@ -1,5 +1,5 @@
 # Roadrunner_outputconverter
-Convert Roadrunner output map (RoadMap) into Biagioni's Graph Sampling algorithm input for Precision/Recall/F-Score evaluation
+Convert Roadrunner output map (RoadMap) into Graph Sampling algorithm input for Precision/Recall/F-Score evaluation
 
 Call ```python3 Roadrunner_outputconverter.py``` accompanied by the output pickle filename you got from Roadrunner.
 
